@@ -28,7 +28,9 @@ a {
   color: aquamarine;
   size: 16px;
 }
-
+.pseudo-header a{
+  display: block;
+}
 
 /* Footer */
 footer p{

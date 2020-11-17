@@ -2,24 +2,22 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: 'Verdana';
 }
 
-h1 {
-  font-family: 'Verdana';
+h1 {  
   font-weight: normal;
   color: white;
   font-size: 50px;
 }
 
-h2 {
-  font-family: 'Verdana';
+h2 { 
   color: white;
   font-weight: 300;
   font-size: 42px;
 }
 
-p {
-  font-family: 'Verdana';
+p {  
   color: grey;
   font-size: 21px;
 }
